@@ -77,20 +77,3 @@ Built to enhance audience interaction with **reliable live switching** and respo
 </p>
 
 ---
-
-### ✅ Next Step
-📌 قم الآن بإنشاء ملف:
-`README.md`  
-داخل:
-`github.com/AhmedBinAbdulazizNada`
-
-ثم الصق هذا المحتوى.
-
-📌 بعدها سأصمم لك Banner متناسق مع هذا التصميم  
-(بتدرج سعودي Premium)
-
-عندما تنتهي ضع رد:
-**"تم إضافة README"**
-
-ثم أبدأ تصميم الـ Banner.  
-🔥 وقتها يصبح GitHub = LinkedIn من حيث القوة.
